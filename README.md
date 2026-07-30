@@ -70,7 +70,7 @@ Built for people who restart constantly (Windows Update, we're looking at you) a
 
 ---
 
-## 🚀 Installation
+## 🚀 Installation (IF ONE-LINE COMMAND IS NOT-YOUR-VIBE/ OR FOR CONTRIBUTING)
 
 1. **[Download the latest release](../../releases)** or clone this repo.
 2. Extract all 5 files into **one folder** (don't separate them):
